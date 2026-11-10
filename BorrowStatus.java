@@ -1,0 +1,3 @@
+public enum BorrowStatus {
+    CREATED, ITEM_NOT_FOUND, ITEM_UNAVAILABLE, INVALID_INPUT
+}
